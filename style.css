@@ -77,7 +77,7 @@ display: block;
 
 .mySlides {display:none; margin-left:50%; margin-right:50%}
 
-.w3-left {float:left!important; cursor:pointer;}
+.w3-left {float:left!important; cursor:pointer}
 .w3-right{float:right!important; cursor:pointer}
 
 .w3-badge {height:12px;width:12px;padding:5px}
